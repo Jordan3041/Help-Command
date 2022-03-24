@@ -2,7 +2,7 @@ Today I bring you a work in progress script for those that need help when first 
 
 No Requirments in your FiveM Server. This is a standalone script. Just drag the Help-Command folder into your server resources, and add to your server.cfg
 
-For my Discord Server, we have a #Help cahnnel and a 'Support' Role for support members. This command just notifys poeple to join our discord and ping the Support Role so someone can help them out. If you dont want to set that up, change the msg("______________") and replace the text.
+For my Discord Server, we have a #Help cahnnel and a 'Support' Role for support members. This command just notifys poeple to join our discord and ping the Support Role so someone can help them out. If you dont want to set that up, change the msg("YOUR TEX HERE") and replace the text. If you only want one message line, just delete the second line.
 
 Command: /help
 
